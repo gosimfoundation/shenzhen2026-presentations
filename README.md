@@ -1,22 +1,6 @@
-# GOSIM 深圳 2026 演讲资料 / GOSIM Shenzhen 2026 Presentations
+# GOSIM Shenzhen 2026 Presentations
 
-[中文](#中文) · [English](#english)
-
-## 中文
-
-这里收录 GOSIM 深圳 2026 的演讲幻灯片及辅助资料，按分会场和日期整理。PDF、PPTX、视频等文件直接保存在仓库文件夹中，随资料收集持续更新。
-
-### 下载资料
-
-- **国内下载：[GitCode 仓库](https://gitcode.com/gosimfoundation/shenzhen2026)**。打开仓库页面，选择下载 `main` 分支的 ZIP 压缩包。
-- **[GitHub 仓库](https://github.com/gosimfoundation/shenzhen2026-presentations)**：点击 **Code → Download ZIP**，也可以[直接下载 ZIP](https://github.com/gosimfoundation/shenzhen2026-presentations/archive/refs/heads/main.zip)。
-- 只需要某一份演讲资料时，可以进入对应的分会场和日期文件夹，打开文件后单独下载。
-
-两个仓库的 `main` 分支同步维护，提供相同的演讲文件。ZIP 压缩包由平台按当前分支内容生成；新增或移除资料后，重新下载即可获取最新版本。
-
-### 资料说明
-
-演讲资料以所收集版本为准。各文件的权利归相应讲师或权利人所有，使用及转载请遵循文件内的声明或联系权利人确认。
+[English](#english) · [中文](#中文) · 
 
 ## English
 
@@ -33,3 +17,19 @@ The `main` branches of both repositories are kept in sync and contain the same p
 ### Usage
 
 Materials are provided as collected. Rights remain with the respective speakers or rights holders. Please follow any notices in the files or contact the rights holders before reuse or redistribution.
+
+## 中文
+
+这里收录 GOSIM 深圳 2026 的演讲幻灯片及辅助资料，按分会场和日期整理。PDF、PPTX、视频等文件直接保存在仓库文件夹中，随资料收集持续更新。
+
+### 下载资料
+
+- **国内下载：[GitCode 仓库](https://gitcode.com/gosimfoundation/shenzhen2026)**。打开仓库页面，选择下载 `main` 分支的 ZIP 压缩包。
+- **[GitHub 仓库](https://github.com/gosimfoundation/shenzhen2026-presentations)**：点击 **Code → Download ZIP**，也可以[直接下载 ZIP](https://github.com/gosimfoundation/shenzhen2026-presentations/archive/refs/heads/main.zip)。
+- 只需要某一份演讲资料时，可以进入对应的分会场和日期文件夹，打开文件后单独下载。
+
+两个仓库的 `main` 分支同步维护，提供相同的演讲文件。ZIP 压缩包由平台按当前分支内容生成；新增或移除资料后，重新下载即可获取最新版本。
+
+### 资料说明
+
+演讲资料以所收集版本为准。各文件的权利归相应讲师或权利人所有，使用及转载请遵循文件内的声明或联系权利人确认。
